@@ -115,10 +115,12 @@ You can:
 * Help create resources
 * Support other developers
 
+
+
 ---
 
 <div align="center">
 
-**Built by teens. For teens.**
+**© 2026 Teens in Software**
 
 </div>
