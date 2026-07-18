@@ -115,6 +115,12 @@ You can:
 * Help create resources
 * Support other developers
 
+# Join the Community
+
+Coming soon:
+- Discord
+- GitHub Discussions
+- Community Projects
 
 
 ---
@@ -122,5 +128,7 @@ You can:
 <div align="center">
 
 **© 2026 Teens in Software**
+
+stay tuned ;)
 
 </div>
