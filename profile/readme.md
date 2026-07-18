@@ -19,6 +19,8 @@ Teens in Software is a place where young developers can explore programming, wor
 
 Whether you're writing your first program, experimenting with a new idea, or contributing to open source, everyone is welcome.
 
+This initiative is currently just starting up! Stay tuned for more!
+
 ---
 
 ## What We Do
@@ -38,19 +40,6 @@ Work with other developers, share feedback, and help each other improve.
 ### Share
 
 Show off projects, write about what you've learned, and contribute back to the community.
-
----
-
-## Who It's For
-
-Teens in Software is for anyone interested in software and technology:
-
-* Beginners learning to code
-* Students building their first projects
-* Developers working on personal projects
-* Anyone curious about how software is made
-
-You don't need to be an expert. Everyone starts somewhere.
 
 ---
 
