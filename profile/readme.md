@@ -67,26 +67,6 @@ Projects may include:
 
 ---
 
-## Community Values
-
-### Learn Together
-
-Everyone has something to share, no matter their experience level.
-
-### Build Things
-
-The best way to learn software is by making things.
-
-### Help Others
-
-A good community is built around supporting each other.
-
-### Stay Curious
-
-Try things, break things, and keep learning.
-
----
-
 ## Get Involved
 
 Interested in joining?
