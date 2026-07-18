@@ -1,85 +1,69 @@
-<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/86741ab2-aee1-4f7b-9658-0ca35bd77f6b" />
-
-</div>
+<img src="https://github.com/user-attachments/assets/86741ab2-aee1-4f7b-9658-0ca35bd77f6b" alt="Teens in Software">
 
 # Teens in Software
 
-### Empowering the next generation of software developers.
+### A place for young developers to learn, build, and share.
 
-A community-driven initiative where teenagers learn, build, collaborate, and contribute to the world of software.
+Teens in Software is a small community initiative for teenagers interested in software development, programming, and technology.
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/teensinsoftware)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/teensinsoftware)
 
-</div>
-
 ---
 
 ## About
 
-**Teens in Software** is an initiative dedicated to helping teenagers explore software development, collaborate on projects, and participate in the developer community.
+Teens in Software is a place where young developers can explore programming, work on projects, and connect with others who enjoy building things.
 
-We believe that meaningful software can be created by anyone. Age should not be a barrier to learning, building, or contributing.
-
----
-
-## Mission
-
-Our mission is to create a welcoming environment where young developers can:
-
-* Learn software development through practical experience
-* Build and share real projects
-* Collaborate with other developers
-* Contribute to open source
-* Develop skills that prepare them for the future
+Whether you're writing your first program, experimenting with a new idea, or contributing to open source, everyone is welcome.
 
 ---
 
 ## What We Do
 
-### Learning
+### Learn
 
-We provide resources, discussions, and opportunities for developers at all experience levels.
+Share resources, ask questions, and learn new skills together.
 
-### Building
+### Build
 
-We encourage members to create projects, experiment with ideas, and turn concepts into working software.
+Create projects, experiment with ideas, and turn concepts into working software.
 
-### Collaboration
+### Collaborate
 
-We connect young developers to share knowledge, solve problems, and work together.
+Work with other developers, share feedback, and help each other improve.
 
-### Contribution
+### Share
 
-We promote involvement in open source and the wider software community.
+Show off projects, write about what you've learned, and contribute back to the community.
 
 ---
 
 ## Who It's For
 
-Teens in Software is for anyone interested in software, including:
+Teens in Software is for anyone interested in software and technology:
 
-* Beginners learning their first programming language
+* Beginners learning to code
 * Students building their first projects
-* Developers contributing to open source
-* Creators interested in software engineering and technology
+* Developers working on personal projects
+* Anyone curious about how software is made
 
-No matter your experience level, there is room to grow.
+You don't need to be an expert. Everyone starts somewhere.
 
 ---
 
 ## Projects
 
-Projects within Teens in Software may include:
+Projects may include:
 
-| Area        | Examples                      |
-| ----------- | ----------------------------- |
-| Software    | Applications, tools, websites |
-| Open Source | Community-maintained projects |
-| Education   | Guides, tutorials, resources  |
-| Experiments | Prototypes and new ideas      |
+| Area | Examples |
+| --- | --- |
+| Software | Apps, tools, websites |
+| Open Source | Community projects |
+| Learning | Guides, tutorials, resources |
+| Experiments | Ideas, prototypes, and anything interesting |
 
 ---
 
@@ -87,41 +71,42 @@ Projects within Teens in Software may include:
 
 ### Learn Together
 
-Everyone has something to teach and something to learn.
+Everyone has something to share, no matter their experience level.
 
-### Build Real Things
+### Build Things
 
-Practical experience is one of the best ways to grow as a developer.
+The best way to learn software is by making things.
 
-### Share Knowledge
+### Help Others
 
-A stronger developer community comes from helping others succeed.
+A good community is built around supporting each other.
 
 ### Stay Curious
 
-Exploration and experimentation drive innovation.
+Try things, break things, and keep learning.
 
 ---
 
 ## Get Involved
 
-Interested in participating?
+Interested in joining?
 
 You can:
 
-* Join the community
 * Share your projects
+* Help with community ideas
 * Contribute to repositories
-* Help create resources
-* Support other developers
+* Meet other young developers
 
-# Join the Community
+## Coming Soon
 
-Coming soon:
-- Discord
+We're still getting things started.
+
+Future plans may include:
+
+- Discord community
 - GitHub Discussions
-- Community Projects
-
+- Community projects
 
 ---
 
